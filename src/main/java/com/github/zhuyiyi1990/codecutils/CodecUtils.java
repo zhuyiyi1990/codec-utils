@@ -1,4 +1,4 @@
-package com.github.zhuyiyi1990;
+package com.github.zhuyiyi1990.codecutils;
 
 import org.apache.commons.codec.digest.DigestUtils;
 
